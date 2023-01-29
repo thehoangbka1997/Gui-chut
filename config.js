@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Xin chào ! 🖐🖐🖐',
-    introDesc: `T có chuyện muốn hỏi. B trả lời thật lòng nhé!`,
+    introTitle: '🖐🖐🖐 Xin chào e chút! 🖐🖐🖐',
+    introDesc: `E chút cho mình hỏi chuyện ni nha!`,
     btnIntro: 'OK',
-    title: 'B thích t đúng không？ 😙',
-    desc: 'Không trở lời hoặc thoát ra chứng tỏ là thích nhé :> ',
-    btnYes: 'Siêu siêu thích 💖💖💖',
+    title: 'E chút có đồng ý lấy a không？ 😙',
+    desc: 'Không trở lời hoặc thoát ra là đồng ý nhé :> ',
+    btnYes: 'Dạ e đồng  💖💖💖',
     btnNo: '💔 Không ! 💔 ',
-    question:'Tại sao thích t vậy 😊😊',
-    reasonPlaceholder: 'Lý do',
+    question:'E chút đồng ý làm vợ a rồi cùng a xây dựng 1 gia đình siêu hạnh phúc nha 😊😊',
+    reasonPlaceholder: 'Câu trả lời',
     btnReply: 'Gửi ! 💌💌',
-    reply: 'Vì Hoàng quá đẹp trai 😊😊',
-    mess: 'Ra vậy. Cảm ơn nhé 🥰',
-    messDesc: '💬💬 Nhắn tin t nhé. 💬💬',
+    reply: 'Dạ a Hoàng  😊😊',
+    mess: 'Cảm ơn e chút  🥰',
+    messDesc: '💬💬 Nhắn tin cho a đi. 💬💬',
     btnAccept: 'Oki 💖',
     messLink: 'http://m.me/thehoang.nguyen.37'
 }
